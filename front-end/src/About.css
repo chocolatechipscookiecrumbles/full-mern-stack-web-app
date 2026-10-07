@@ -1,0 +1,19 @@
+.About-article {
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+.About-article img {
+  display: block;
+  width: 420px;
+  max-width: 100%;
+  height: auto;
+  margin: 20px auto;
+  border-radius: 8px;
+}
+
+.About-article p {
+  margin-top: 16px;
+  text-align: left;
+  line-height: 1.6;
+}
